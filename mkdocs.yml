@@ -1,0 +1,10 @@
+site_name: 山哥的博客
+nav:
+  - 用户指南: index.md
+  - 常见问题: QA.md
+  - 更新日志: release-note.md
+
+
+
+
+
