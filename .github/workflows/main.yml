@@ -4,8 +4,6 @@ on:
       - master
       - main
 
-permissions: write-all
-
 jobs:
   publish:
     runs-on: ubuntu-latest
