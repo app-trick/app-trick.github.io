@@ -10,19 +10,14 @@ jobs:
     permissions:
       contents: read
       deployments: write
-    name: Publish to Cloudflare Pages
+    name: Publish to GitHub Pages
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      # build
-      - name: Setup Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: 3.9  # Choose the Python version you need
-      - name: Install MkDocs and Dependencies
-        run: |
-          pip install mkdocs
-      - name: Build MkDocs Documentation
-        run: |
-          mkdocs gh-deploy --force
+      - name: Deploy docs
+          uses: mhausenblas/mkdocs-deploy-gh-pages@master
+          # Or use mhausenblas/mkdocs-deploy-gh-pages@nomaterial to build without the mkdocs-material theme
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            
