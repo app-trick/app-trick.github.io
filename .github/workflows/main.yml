@@ -4,8 +4,7 @@ on:
       - master
       - main
 
-permissions:
-  contents: write
+permissions: write-all
 
 jobs:
   publish:
