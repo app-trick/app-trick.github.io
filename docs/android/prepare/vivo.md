@@ -4,6 +4,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fyEin7lNM18?si=3citU9cobpFJA66S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+梯子：[chatbrowser](https://manual.chatbrowser.top/release-note/)
+
 ---
 
 ## 1.打开自带商店
