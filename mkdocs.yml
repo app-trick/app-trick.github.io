@@ -1,8 +1,42 @@
 site_name: 山哥的博客
+
+# Repository
+repo_name: app-trick
+repo_url: https://github.com/app-trick/app-trick.github.io
+
+theme:
+  name: material
+  features:
+    - content.action.edit # 配合repo_
+    - content.action.view
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+#markdown_extensions:
+#  - admonition
+#  - toc:
+#      permalink: false
+extra:
+  generator: false
+
 nav:
-  - 用户指南: index.md
-  - 常见问题: QA.md
-  - 更新日志: release-note.md
+  - index.md
+  - 安卓:
+    - 安装应用方式:
+      - android/prepare/index.md
+      - VIVO启用谷歌服务: android/prepare/vivo.md
+      - android/prepare/vmos.md
+    - 应用:
+      - android/app/index.md
+      - android/app/Tiktok.md
+      - android/app/bing.md
+      - chatGPT: android/app/chatGPT.md
+      - 电报(Telegram): android/app/tg.md
+  - PC:
+      - pc/bing.md
+      - pc/tg.md
 
 
 
