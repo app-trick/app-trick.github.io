@@ -4,5 +4,5 @@
 
 
 
-* [Carrier Vanity Name apk下载](https://github.com/nullbytepl/CarrierVanityName/releases/download/1.1/app-release.apk)
+* [Carrier Vanity Name apk下载](/CVN.apk)
 *  [Shizuku google play下载](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en&pli=1)
