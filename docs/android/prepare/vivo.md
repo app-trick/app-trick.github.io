@@ -4,7 +4,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fyEin7lNM18?si=3citU9cobpFJA66S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-梯子：[chatbrowser](https://manual.chatbrowser.top/release-note/)
+[梯子](https://manual.chatbrowser.top/sell) 8.9一个月，youtube 4k播放无压力，chatGPT可用。提供7天试用，不限流量。
 
 ---
 

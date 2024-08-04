@@ -4,5 +4,7 @@
 
 
 
+* [梯子](https://manual.chatbrowser.top/sell) 8.9一个月，youtube 4k播放无压力，chatGPT可用。提供7天试用，不限流量。
+
 * [Carrier Vanity Name apk下载](/CVN.apk)
 *  [Shizuku google play下载](https://play.google.com/store/apps/details?id=moe.shizuku.privileged.api&hl=en&pli=1)
