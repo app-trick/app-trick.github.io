@@ -23,6 +23,6 @@ jobs:
             mkdocs-material-
       - run: pip install mkdocs-material
 
-      # this works fine but ignore file not refer
+      # equal build and push site to gh-pages branch
       - run: mkdocs gh-deploy --force
 
