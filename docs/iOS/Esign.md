@@ -1,6 +1,6 @@
 # Esign
 ### ✅  Sunshine Insurance Group Co., Ltd
-[安装Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.nghljhfqnk.rdfrhfxl.plist)
+[安装Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.xsepxrntfg.qhgszlzk.plist)
 
 [证书下载](/iOS/cert/Sunshine%20Insurance%20Group%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) China CITIC Bank Corporation Limited
