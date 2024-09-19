@@ -25,6 +25,7 @@ nav:
   - index.md
   - iOS:
       - iOS/Esign.md
+      - iOS/trollstore.md
   - 安卓:
     - 安装应用方式:
       - android/prepare/index.md
