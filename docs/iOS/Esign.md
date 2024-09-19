@@ -1,6 +1,6 @@
 # Esign
 ### ✅  China Continent Property   Casualty Insurance Company Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.gxcivaylfu.ehstzdzu.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ushjsysqno.atdrtwjg.plist)
 
 [证书下载/Download Certificate](/iOS/cert/China%20Continent%20Property%20%20%20Casualty%20Insurance%20Company%20Ltd.zip)
 ### ❌ (已撤销) Sunshine Insurance Group Co., Ltd
