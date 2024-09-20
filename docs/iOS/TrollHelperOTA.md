@@ -1,5 +1,5 @@
 # TrollHelperOTA
-[安装 TrollHelperOTA](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.deqcsktqkz.odsuhqaa.plist)
+[安装 TrollHelperOTA](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.jnmlhgheef.wzomaoiw.plist)
 
 
 安装好工具后，按界面步骤操作完成安装
