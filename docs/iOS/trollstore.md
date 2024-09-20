@@ -1,8 +1,5 @@
 # TrollStore一键安装
 
-梯子8.9一个月，不限流量。提供7天试用。[ipa文件下载](https://chatbrowser.oss-cn-beijing.aliyuncs.com/dist/Anony.ipa)，也可以复制链接直接在巨魔中安装。
-
----
 
 **查看系统版本**
 
@@ -14,7 +11,8 @@
 
 **安装方法**
 
-根据iOS系统版本、处理器选择合适版本，点击即可安装
+* 根据iOS系统版本、处理器选择合适工具，点击安装
+* 不同工具操作界面有所有同，按界面上步骤操作完成巨魔安装
 
 <table>
  <colgroup>

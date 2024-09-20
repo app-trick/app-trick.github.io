@@ -1,6 +1,15 @@
-# Esign
+# ESign
+
+梯子8.9一个月，不限流量。提供7天试用。
+
+有巨魔或开发者证书：[ipa文件下载](https://chatbrowser.oss-cn-beijing.aliyuncs.com/dist/Anony.ipa)
+
+没有巨魔或开发者证书证书：通过[官网](https://manual.chatbrowser.top/sell/)安装
+
+---
+
 ### ✅  China Continent Property   Casualty Insurance Company Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.sjktidgaxt.hltemmzr.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.isdqejustg.evwgmhbu.plist)
 
 [证书下载/Download Certificate](/iOS/cert/China%20Continent%20Property%20%20%20Casualty%20Insurance%20Company%20Ltd.zip)
 ### ❌ (已撤销) Sunshine Insurance Group Co., Ltd
