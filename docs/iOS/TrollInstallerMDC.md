@@ -1,5 +1,5 @@
 # TrollInstallerMDC
-[安装 TrollInstallerMDC](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.obrbnyfhav.wwpzzksm.plist)
+[安装 TrollInstallerMDC](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.lrleiodhyt.rfktsomq.plist)
 
 
 安装好工具后，按界面步骤操作完成安装

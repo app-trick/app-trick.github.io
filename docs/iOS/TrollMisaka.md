@@ -1,5 +1,5 @@
 # TrollMisaka
-[安装 TrollMisaka](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.smlbmmkunc.pazztszd.plist)
+[安装 TrollMisaka](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.svtsggdrpr.zpafhgxp.plist)
 
 
 安装好工具后，按界面步骤操作完成安装
