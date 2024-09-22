@@ -9,7 +9,7 @@
 ---
 
 ### ✅  China Continent Property   Casualty Insurance Company Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.cnjrsnkzau.iqwxbaps.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.hebtfuamad.ozaikkng.plist)
 
 [证书下载/Download Certificate](/iOS/cert/China%20Continent%20Property%20%20%20Casualty%20Insurance%20Company%20Ltd.zip)
 ### ❌ (已撤销) Sunshine Insurance Group Co., Ltd
@@ -48,5 +48,3 @@
 [证书下载/Download Certificate](/iOS/cert/Aldo%20Group%20Inc.zip)
 ### ❌ (已撤销，已过期) CITIC-Prudential Life Insurance Company Limited
 [证书下载/Download Certificate](/iOS/cert/CITIC-Prudential%20Life%20Insurance%20Company%20Limited.zip)
-### ❌ (已撤销) shaanxi heavy duty automobile co.,ltd
-[证书下载/Download Certificate](/iOS/cert/shaanxi%20heavy%20duty%20automobile%20co.%2Cltd.zip)
