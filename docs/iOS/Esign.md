@@ -9,7 +9,7 @@
 ---
 
 ### ✅  Sunshine Insurance Group Co., Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ibfpcemmvs.xiviktsu.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.gxoquxxikw.kpkduejn.plist)
 
 [证书下载/Download Certificate](/iOS/cert/Sunshine%20Insurance%20Group%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) China Continent Property   Casualty Insurance Company Ltd
