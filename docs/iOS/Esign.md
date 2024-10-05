@@ -44,5 +44,3 @@
 [证书下载/Download Certificate](/iOS/cert/HDFC%20Life%20Insurance%20Company%20Limited.zip)
 ### ❌ (已撤销) Aldo Group Inc
 [证书下载/Download Certificate](/iOS/cert/Aldo%20Group%20Inc.zip)
-### ❌ (已撤销，已过期) CITIC-Prudential Life Insurance Company Limited
-[证书下载/Download Certificate](/iOS/cert/CITIC-Prudential%20Life%20Insurance%20Company%20Limited.zip)
