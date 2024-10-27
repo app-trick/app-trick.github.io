@@ -42,5 +42,3 @@
 [证书下载/Download Certificate](/iOS/cert/Shanghai%20Construction%20No.2%20%28Group%29%20Co.%2CLtd.zip)
 ### ❌ (已撤销) HDFC Life Insurance Company Limited
 [证书下载/Download Certificate](/iOS/cert/HDFC%20Life%20Insurance%20Company%20Limited.zip)
-### ❌ (已撤销) Aldo Group Inc
-[证书下载/Download Certificate](/iOS/cert/Aldo%20Group%20Inc.zip)
