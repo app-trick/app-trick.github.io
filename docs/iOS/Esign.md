@@ -40,5 +40,3 @@
 [证书下载/Download Certificate](/iOS/cert/Gac%20Trumpchi%20Car%20Sales%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销，已过期) Shanghai Construction No.2 (Group) Co.,Ltd
 [证书下载/Download Certificate](/iOS/cert/Shanghai%20Construction%20No.2%20%28Group%29%20Co.%2CLtd.zip)
-### ❌ (已撤销) HDFC Life Insurance Company Limited
-[证书下载/Download Certificate](/iOS/cert/HDFC%20Life%20Insurance%20Company%20Limited.zip)
