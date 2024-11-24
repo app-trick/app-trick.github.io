@@ -36,5 +36,3 @@
 [证书下载/Download Certificate](/iOS/cert/China%20Everbright%20Limited.zip)
 ### ❌ (已撤销) Henan_Provincial_Communications_Planning_Survey_Design_Institu
 [证书下载/Download Certificate](/iOS/cert/Henan_Provincial_Communications_Planning_Survey_Design_Institu.zip)
-### ❌ (已撤销) Gac Trumpchi Car Sales Co., Ltd
-[证书下载/Download Certificate](/iOS/cert/Gac%20Trumpchi%20Car%20Sales%20Co.%2C%20Ltd.zip)
