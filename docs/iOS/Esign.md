@@ -8,9 +8,7 @@
 
 ---
 
-### ✅  Ministere de I Emploi de la Protection Sociale
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.gckmotadyz.onqojyqi.plist)
-
+### ❌ (已撤销) Ministere de I Emploi de la Protection Sociale
 [证书下载/Download Certificate](/iOS/cert/Ministere%20de%20I%20Emploi%20de%20la%20Protection%20Sociale.zip)
 ### ❌ (已撤销) Sunshine Insurance Group Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/Sunshine%20Insurance%20Group%20Co.%2C%20Ltd.zip)
