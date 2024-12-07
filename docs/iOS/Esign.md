@@ -36,5 +36,3 @@
 [证书下载/Download Certificate](/iOS/cert/Mylan%20Inc.zip)
 ### ❌ (已撤销) China Everbright Limited
 [证书下载/Download Certificate](/iOS/cert/China%20Everbright%20Limited.zip)
-### ❌ (已撤销) Henan_Provincial_Communications_Planning_Survey_Design_Institu
-[证书下载/Download Certificate](/iOS/cert/Henan_Provincial_Communications_Planning_Survey_Design_Institu.zip)
