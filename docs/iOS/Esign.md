@@ -8,6 +8,10 @@
 
 ---
 
+### ✅  China Mobile Group Shandong Co., Ltd
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.zqaxzhkksg.tbytjsof.plist)
+
+[证书下载/Download Certificate](/iOS/cert/China%20Mobile%20Group%20Shandong%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) Ministere de I Emploi de la Protection Sociale
 [证书下载/Download Certificate](/iOS/cert/Ministere%20de%20I%20Emploi%20de%20la%20Protection%20Sociale.zip)
 ### ❌ (已撤销) Sunshine Insurance Group Co., Ltd
