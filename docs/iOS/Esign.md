@@ -9,7 +9,7 @@
 ---
 
 ### ✅  China Mobile Group Shandong Co., Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ganmusbpuk.hxmxftlo.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.pbzeoltehk.evbbkooa.plist)
 
 [证书下载/Download Certificate](/iOS/cert/China%20Mobile%20Group%20Shandong%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) Ministere de I Emploi de la Protection Sociale
@@ -32,7 +32,7 @@
 [证书下载/Download Certificate](/iOS/cert/Rizhao%20Sunday%20Power%20Generation%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) ANBANG INSURANCE LTD
 [证书下载/Download Certificate](/iOS/cert/ANBANG%20INSURANCE%20LTD.zip)
-### ❌ (已撤销) AVIATION INFORMATION AND TELECOMMUNICATIONS JSC
+### ❌ (已撤销，已过期) AVIATION INFORMATION AND TELECOMMUNICATIONS JSC
 [证书下载/Download Certificate](/iOS/cert/AVIATION%20INFORMATION%20AND%20TELECOMMUNICATIONS%20JSC.zip)
 ### ❌ (已过期) VIETNAM_POSTS_AND_TELECOMMUNICATIONS_GROUP_HO_CHI_MINH_CITY_TE
 [证书下载/Download Certificate](/iOS/cert/VIETNAM_POSTS_AND_TELECOMMUNICATIONS_GROUP_HO_CHI_MINH_CITY_TE.zip)
