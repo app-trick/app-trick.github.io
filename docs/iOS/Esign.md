@@ -30,5 +30,3 @@
 [证书下载/Download Certificate](/iOS/cert/Rizhao%20Sunday%20Power%20Generation%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) ANBANG INSURANCE LTD
 [证书下载/Download Certificate](/iOS/cert/ANBANG%20INSURANCE%20LTD.zip)
-### ❌ (已撤销，已过期) AVIATION INFORMATION AND TELECOMMUNICATIONS JSC
-[证书下载/Download Certificate](/iOS/cert/AVIATION%20INFORMATION%20AND%20TELECOMMUNICATIONS%20JSC.zip)
