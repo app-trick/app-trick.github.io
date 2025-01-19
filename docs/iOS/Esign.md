@@ -26,5 +26,3 @@
 [证书下载/Download Certificate](/iOS/cert/Bank%20of%20Chongqing%20Co.%2CLtd.zip)
 ### ❌ (已撤销) ARADA DEVELOPMENTS LLC
 [证书下载/Download Certificate](/iOS/cert/ARADA%20DEVELOPMENTS%20LLC.zip)
-### ❌ (已撤销，已过期) Rizhao Sunday Power Generation Co., Ltd
-[证书下载/Download Certificate](/iOS/cert/Rizhao%20Sunday%20Power%20Generation%20Co.%2C%20Ltd.zip)
