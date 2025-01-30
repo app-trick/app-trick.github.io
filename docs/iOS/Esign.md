@@ -24,5 +24,3 @@
 [证书下载/Download Certificate](/iOS/cert/Zhuhaishi%20ShijiXintong%20Network%20Technology%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) Bank of Chongqing Co.,Ltd
 [证书下载/Download Certificate](/iOS/cert/Bank%20of%20Chongqing%20Co.%2CLtd.zip)
-### ❌ (已撤销) ARADA DEVELOPMENTS LLC
-[证书下载/Download Certificate](/iOS/cert/ARADA%20DEVELOPMENTS%20LLC.zip)
