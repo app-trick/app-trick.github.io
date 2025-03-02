@@ -9,7 +9,7 @@
 ---
 
 ### ✅  Kotak Mahindra Bank Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ybzfquafmx.agrucflr.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ublbtmifog.eovsrgjm.plist)
 
 [证书下载/Download Certificate](/iOS/cert/Kotak%20Mahindra%20Bank%20Ltd.zip)
 ### ❌ (已过期) China Mobile Group Shandong Co., Ltd
