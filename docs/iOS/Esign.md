@@ -9,7 +9,7 @@
 ---
 
 ### ✅  Kotak Mahindra Bank Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.sztgubhvub.artfxfvl.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.gudcycgksj.upprkhul.plist)
 
 [证书下载/Download Certificate](/iOS/cert/Kotak%20Mahindra%20Bank%20Ltd.zip)
 ### ❌ (已过期) China Mobile Group Shandong Co., Ltd
@@ -24,5 +24,3 @@
 [证书下载/Download Certificate](/iOS/cert/China%20CITIC%20Bank%20Corporation%20Limited.zip)
 ### ❌ (已撤销) Sun Life Everbright Life Insurance Co.,Ltd
 [证书下载/Download Certificate](/iOS/cert/Sun%20Life%20Everbright%20Life%20Insurance%20Co.%2CLtd.zip)
-### ❌ (已撤销) Zhuhaishi ShijiXintong Network Technology Co., Ltd
-[证书下载/Download Certificate](/iOS/cert/Zhuhaishi%20ShijiXintong%20Network%20Technology%20Co.%2C%20Ltd.zip)
