@@ -9,7 +9,7 @@
 ---
 
 ### ✅  GAC TOYOTA MOTOR CO.,LTD
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.oszsvxzcwx.ekvqypmv.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ekxrorhfli.aqnpgasw.plist)
 
 [证书下载/Download Certificate](/iOS/cert/GAC%20TOYOTA%20MOTOR%20CO.%2CLTD.zip)
 ### ❌ (已撤销) Kotak Mahindra Bank Ltd
