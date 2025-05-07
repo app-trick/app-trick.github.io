@@ -9,7 +9,7 @@
 ---
 
 ### ✅  HDFC Bank Limited
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.cdnuvbhfbr.aqqptdln.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.fvyutxpcpr.apxovvil.plist)
 
 [证书下载/Download Certificate](/iOS/cert/HDFC%20Bank%20Limited.zip)
 ### ❌ (已撤销) GAC TOYOTA MOTOR CO.,LTD
