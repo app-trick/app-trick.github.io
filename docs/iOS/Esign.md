@@ -8,9 +8,7 @@
 
 ---
 
-### ✅  HDFC Bank Limited
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.blotlbfpmd.fefzsfls.plist)
-
+### ❌ (已撤销) HDFC Bank Limited
 [证书下载/Download Certificate](/iOS/cert/HDFC%20Bank%20Limited.zip)
 ### ❌ (已撤销) GAC TOYOTA MOTOR CO.,LTD
 [证书下载/Download Certificate](/iOS/cert/GAC%20TOYOTA%20MOTOR%20CO.%2CLTD.zip)
@@ -26,5 +24,5 @@
 [证书下载/Download Certificate](/iOS/cert/China%20Continent%20Property%20%20%20Casualty%20Insurance%20Company%20Ltd.zip)
 ### ❌ (已撤销，已过期) China CITIC Bank Corporation Limited
 [证书下载/Download Certificate](/iOS/cert/China%20CITIC%20Bank%20Corporation%20Limited.zip)
-### ❌ (已撤销) Sun Life Everbright Life Insurance Co.,Ltd
+### ❌ (已撤销，已过期) Sun Life Everbright Life Insurance Co.,Ltd
 [证书下载/Download Certificate](/iOS/cert/Sun%20Life%20Everbright%20Life%20Insurance%20Co.%2CLtd.zip)
