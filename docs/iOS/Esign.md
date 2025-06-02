@@ -9,7 +9,7 @@
 ---
 
 ### ✅  National Science Library,Chinese Academy  of Sciences
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ntcajefsml.vlvyienp.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.sqkzrcgioc.wgxcpyow.plist)
 
 [证书下载/Download Certificate](/iOS/cert/National%20Science%20Library%2CChinese%20Academy%20%20of%20Sciences.zip)
 ### ❌ (已撤销) HDFC Bank Limited
