@@ -8,9 +8,7 @@
 
 ---
 
-### ✅  National Science Library,Chinese Academy  of Sciences
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.sqkzrcgioc.wgxcpyow.plist)
-
+### ❌ (已撤销) National Science Library,Chinese Academy  of Sciences
 [证书下载/Download Certificate](/iOS/cert/National%20Science%20Library%2CChinese%20Academy%20%20of%20Sciences.zip)
 ### ❌ (已撤销) HDFC Bank Limited
 [证书下载/Download Certificate](/iOS/cert/HDFC%20Bank%20Limited.zip)
@@ -28,5 +26,3 @@
 [证书下载/Download Certificate](/iOS/cert/China%20Continent%20Property%20%20%20Casualty%20Insurance%20Company%20Ltd.zip)
 ### ❌ (已撤销，已过期) China CITIC Bank Corporation Limited
 [证书下载/Download Certificate](/iOS/cert/China%20CITIC%20Bank%20Corporation%20Limited.zip)
-### ❌ (已撤销，已过期) Sun Life Everbright Life Insurance Co.,Ltd
-[证书下载/Download Certificate](/iOS/cert/Sun%20Life%20Everbright%20Life%20Insurance%20Co.%2CLtd.zip)
