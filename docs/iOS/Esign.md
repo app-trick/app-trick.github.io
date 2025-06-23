@@ -9,7 +9,7 @@
 ---
 
 ### ✅  Wuling Power Corporation
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.fkinadiutn.avibfeme.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ykkclooyvs.ptjxcaee.plist)
 
 [证书下载/Download Certificate](/iOS/cert/Wuling%20Power%20Corporation.zip)
 ### ❌ (已撤销) National Science Library,Chinese Academy  of Sciences
