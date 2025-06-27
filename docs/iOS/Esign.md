@@ -8,9 +8,9 @@
 
 ---
 
-### ✅  Wuling Power Corporation
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.emfucksllx.fhzefdvo.plist)
-
+### ❌ (已撤销) TCL household Appliance Marketing Co., LTD
+[证书下载/Download Certificate](/iOS/cert/TCL%20household%20Appliance%20Marketing%20Co.%2C%20LTD.zip)
+### ❌ (已撤销) Wuling Power Corporation
 [证书下载/Download Certificate](/iOS/cert/Wuling%20Power%20Corporation.zip)
 ### ❌ (已撤销) National Science Library,Chinese Academy  of Sciences
 [证书下载/Download Certificate](/iOS/cert/National%20Science%20Library%2CChinese%20Academy%20%20of%20Sciences.zip)
