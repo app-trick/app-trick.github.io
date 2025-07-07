@@ -3,9 +3,9 @@
 
 **请使用手机浏览器打开此页面，然后点击以下链接：**
 
-[安装 TrollInstallerMDC](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.qiwqokjhgc.tzysyolr.plist)
+[安装 TrollInstallerMDC](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.znrovrpigh.iwicchpg.plist)
 
-[安装 TrollInstallerMDC](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.weiewzsufj.qiqtrkmh.plist)
+[安装 TrollInstallerMDC](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.czhgledzfj.odnffrhh.plist)
 
 
 安装好工具后，按界面步骤操作完成安装
