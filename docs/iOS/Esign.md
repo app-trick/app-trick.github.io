@@ -12,9 +12,7 @@
 [证书下载/Download Certificate](/iOS/cert/Beijing%20Esensoft%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD
 [证书下载/Download Certificate](/iOS/cert/NREH%20ESTATE%20INFORMATION%20TECHNOLOGY%20CO.%2CLTD.zip)
-### ✅  China Railway Eryuan Engineering Group Co., Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.cpfxxkpyvk.irbcsqed.plist)
-
+### ❌ (已撤销) China Railway Eryuan Engineering Group Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/China%20Railway%20Eryuan%20Engineering%20Group%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) Dtt Technology Co.,Ltd
 [证书下载/Download Certificate](/iOS/cert/Dtt%20Technology%20Co.%2CLtd.zip)
