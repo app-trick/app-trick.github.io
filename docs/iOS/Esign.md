@@ -36,5 +36,3 @@
 [证书下载/Download Certificate](/iOS/cert/Sunshine%20Insurance%20Group%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) China Continent Property   Casualty Insurance Company Ltd
 [证书下载/Download Certificate](/iOS/cert/China%20Continent%20Property%20%20%20Casualty%20Insurance%20Company%20Ltd.zip)
-### ❌ (已撤销，已过期) China CITIC Bank Corporation Limited
-[证书下载/Download Certificate](/iOS/cert/China%20CITIC%20Bank%20Corporation%20Limited.zip)
