@@ -8,6 +8,10 @@
 
 ---
 
+### ✅  BMW Brilliance Automotive Ltd
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.qpqvyezvlg.iboqkbmp.plist)
+
+[证书下载/Download Certificate](/iOS/cert/BMW%20Brilliance%20Automotive%20Ltd.zip)
 ### ❌ (已撤销) Beijing Esensoft Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/Beijing%20Esensoft%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD
