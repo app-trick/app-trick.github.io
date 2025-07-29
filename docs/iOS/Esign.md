@@ -9,7 +9,7 @@
 ---
 
 ### ✅  BMW Brilliance Automotive Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.fmjjkydpcl.shkfcieb.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.pyzbhgnesk.jaaiqbrp.plist)
 
 [证书下载/Download Certificate](/iOS/cert/BMW%20Brilliance%20Automotive%20Ltd.zip)
 ### ❌ (已撤销) Beijing Esensoft Co., Ltd
@@ -30,7 +30,7 @@
 [证书下载/Download Certificate](/iOS/cert/HDFC%20Bank%20Limited.zip)
 ### ❌ (已撤销) GAC TOYOTA MOTOR CO.,LTD
 [证书下载/Download Certificate](/iOS/cert/GAC%20TOYOTA%20MOTOR%20CO.%2CLTD.zip)
-### ❌ (已撤销) Kotak Mahindra Bank Ltd
+### ❌ (已撤销，已过期) Kotak Mahindra Bank Ltd
 [证书下载/Download Certificate](/iOS/cert/Kotak%20Mahindra%20Bank%20Ltd.zip)
 ### ❌ (已过期) China Mobile Group Shandong Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/China%20Mobile%20Group%20Shandong%20Co.%2C%20Ltd.zip)
