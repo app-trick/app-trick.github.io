@@ -9,7 +9,7 @@
 ---
 
 ### ✅  China Zheshang Bank Co., Ltd
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.miioxauqca.urllsuko.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ymioqcvzgc.radsaxhq.plist)
 
 [证书下载/Download Certificate](/iOS/cert/China%20Zheshang%20Bank%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) BMW Brilliance Automotive Ltd
