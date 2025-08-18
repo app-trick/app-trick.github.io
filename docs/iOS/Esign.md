@@ -9,7 +9,7 @@
 ---
 
 ### ✅  GLOBAL TAKEOFF, INC
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.bgtfnvshgp.utthupta.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.zogiwurpdu.zfwnstrw.plist)
 
 [证书下载/Download Certificate](/iOS/cert/GLOBAL%20TAKEOFF%2C%20INC.zip)
 ### ❌ (已撤销) BMW Brilliance Automotive Ltd
