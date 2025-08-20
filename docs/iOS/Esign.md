@@ -8,9 +8,7 @@
 
 ---
 
-### ✅  GLOBAL TAKEOFF, INC
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.tndtuulrhs.xoreqkao.plist)
-
+### ❌ (已撤销) GLOBAL TAKEOFF, INC
 [证书下载/Download Certificate](/iOS/cert/GLOBAL%20TAKEOFF%2C%20INC.zip)
 ### ❌ (已撤销) BMW Brilliance Automotive Ltd
 [证书下载/Download Certificate](/iOS/cert/BMW%20Brilliance%20Automotive%20Ltd.zip)
