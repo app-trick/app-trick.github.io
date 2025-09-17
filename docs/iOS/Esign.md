@@ -38,5 +38,3 @@
 [证书下载/Download Certificate](/iOS/cert/Ministere%20de%20I%20Emploi%20de%20la%20Protection%20Sociale.zip)
 ### ❌ (已撤销) Sunshine Insurance Group Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/Sunshine%20Insurance%20Group%20Co.%2C%20Ltd.zip)
-### ❌ (已撤销) China Continent Property   Casualty Insurance Company Ltd
-[证书下载/Download Certificate](/iOS/cert/China%20Continent%20Property%20%20%20Casualty%20Insurance%20Company%20Ltd.zip)
