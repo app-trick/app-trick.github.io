@@ -164,7 +164,7 @@
     15.7.2
    </td>
    <td style="text-align: center; font-weight: bold;">
-    15.8.4
+    15.8.5
    </td>
    <td style="text-align: center;">
     <a href="/iOS/TrollMisaka">
@@ -182,7 +182,7 @@
     16.0 beta 1
    </td>
    <td style="text-align: center; font-weight: bold;">
-    16.0 beta 3
+    16.0 beta 5
    </td>
    <td style="text-align: center;">
     Not Applicable
@@ -200,7 +200,7 @@
   </tr>
   <tr>
    <td style="text-align: center; font-weight: bold;">
-    16.0 beta 4
+    16.0 beta 6
    </td>
    <td style="text-align: center; font-weight: bold;">
     16.6.1
@@ -235,7 +235,7 @@
     16.7
    </td>
    <td style="text-align: center; font-weight: bold;">
-    16.7.11
+    16.7.12
    </td>
    <td style="text-align: center;">
     Not Applicable
@@ -259,7 +259,7 @@
      TrollInstallerX
     </a>
    </td>
-   <td style="text-align: center; font-weight: bold;">
+   <td style="text-align: center;">
     <a href="/iOS/TrollRestore">
      TrollRestore
     </a>

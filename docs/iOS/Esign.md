@@ -9,7 +9,7 @@
 ---
 
 ### ✅  Etisalat - Emirates Telecommunications Corporation
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ezezrllxbi.ztrtptjt.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.rtxlxmsfzi.zyepggsp.plist)
 
 [证书下载/Download Certificate](/iOS/cert/Etisalat%20-%20Emirates%20Telecommunications%20Corporation.zip)
 ### ❌ (已撤销) GLOBAL TAKEOFF, INC
@@ -38,5 +38,3 @@
 [证书下载/Download Certificate](/iOS/cert/Kotak%20Mahindra%20Bank%20Ltd.zip)
 ### ❌ (已过期) China Mobile Group Shandong Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/China%20Mobile%20Group%20Shandong%20Co.%2C%20Ltd.zip)
-### ❌ (已撤销) Ministere de I Emploi de la Protection Sociale
-[证书下载/Download Certificate](/iOS/cert/Ministere%20de%20I%20Emploi%20de%20la%20Protection%20Sociale.zip)
