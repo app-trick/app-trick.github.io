@@ -8,9 +8,7 @@
 
 ---
 
-### ✅  Etisalat - Emirates Telecommunications Corporation
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ahmuvbzwxo.splsmyuh.plist)
-
+### ❌ (已撤销) Etisalat - Emirates Telecommunications Corporation
 [证书下载/Download Certificate](/iOS/cert/Etisalat%20-%20Emirates%20Telecommunications%20Corporation.zip)
 ### ❌ (已撤销) GLOBAL TAKEOFF, INC
 [证书下载/Download Certificate](/iOS/cert/GLOBAL%20TAKEOFF%2C%20INC.zip)
