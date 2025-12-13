@@ -34,5 +34,3 @@
 [证书下载/Download Certificate](/iOS/cert/GAC%20TOYOTA%20MOTOR%20CO.%2CLTD.zip)
 ### ❌ (已撤销，已过期) Kotak Mahindra Bank Ltd
 [证书下载/Download Certificate](/iOS/cert/Kotak%20Mahindra%20Bank%20Ltd.zip)
-### ❌ (已过期) China Mobile Group Shandong Co., Ltd
-[证书下载/Download Certificate](/iOS/cert/China%20Mobile%20Group%20Shandong%20Co.%2C%20Ltd.zip)
