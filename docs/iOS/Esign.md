@@ -9,7 +9,7 @@
 ---
 
 ### ✅  Commission on Elections
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.lyjdelpnaq.xiyuevsa.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.pbcdnxhxdw.vhkrkncx.plist)
 
 [证书下载/Download Certificate](/iOS/cert/Commission%20on%20Elections.zip)
 ### ❌ (已撤销) Wasu Media   Network Co., Ltd
