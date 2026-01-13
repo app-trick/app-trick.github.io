@@ -10,7 +10,7 @@
 
 ### ❌ (已撤销) Commission on Elections
 [证书下载/Download Certificate](/iOS/cert/Commission%20on%20Elections.zip)
-### ❌ (已撤销) Wasu Media   Network Co., Ltd
+### ❌ (已撤销，已过期) Wasu Media   Network Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/Wasu%20Media%20%20%20Network%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) Etisalat - Emirates Telecommunications Corporation
 [证书下载/Download Certificate](/iOS/cert/Etisalat%20-%20Emirates%20Telecommunications%20Corporation.zip)
