@@ -8,6 +8,10 @@
 
 ---
 
+### ✅  China Academy of Railway Sciences
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.tnrdrshhjd.atmhixvl.plist)
+
+[证书下载/Download Certificate](/iOS/cert/China%20Academy%20of%20Railway%20Sciences.zip)
 ### ❌ (已撤销) Commission on Elections
 [证书下载/Download Certificate](/iOS/cert/Commission%20on%20Elections.zip)
 ### ❌ (已撤销，已过期) Wasu Media   Network Co., Ltd
