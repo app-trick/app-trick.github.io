@@ -9,7 +9,7 @@
 ---
 
 ### ✅  China Academy of Railway Sciences
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.bqkovtfxwz.pvgzcbks.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.dwmabzlenl.iieyoohf.plist)
 
 [证书下载/Download Certificate](/iOS/cert/China%20Academy%20of%20Railway%20Sciences.zip)
 ### ❌ (已撤销) Commission on Elections
