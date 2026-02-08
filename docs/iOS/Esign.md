@@ -8,15 +8,13 @@
 
 ---
 
-### ✅  China Academy of Railway Sciences
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.abinirjtxe.xszxntax.plist)
-
+### ❌ (已撤销) China Academy of Railway Sciences
 [证书下载/Download Certificate](/iOS/cert/China%20Academy%20of%20Railway%20Sciences.zip)
 ### ❌ (已撤销) Commission on Elections
 [证书下载/Download Certificate](/iOS/cert/Commission%20on%20Elections.zip)
 ### ❌ (已撤销，已过期) Wasu Media   Network Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/Wasu%20Media%20%20%20Network%20Co.%2C%20Ltd.zip)
-### ❌ (已撤销) Etisalat - Emirates Telecommunications Corporation
+### ❌ (已撤销，已过期) Etisalat - Emirates Telecommunications Corporation
 [证书下载/Download Certificate](/iOS/cert/Etisalat%20-%20Emirates%20Telecommunications%20Corporation.zip)
 ### ❌ (已撤销) GLOBAL TAKEOFF, INC
 [证书下载/Download Certificate](/iOS/cert/GLOBAL%20TAKEOFF%2C%20INC.zip)

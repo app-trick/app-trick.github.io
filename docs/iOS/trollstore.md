@@ -164,7 +164,7 @@
     15.7.2
    </td>
    <td style="text-align: center; font-weight: bold;">
-    15.8.5
+    15.8.6
    </td>
    <td style="text-align: center;">
     <a href="/iOS/TrollMisaka">
@@ -235,7 +235,7 @@
     16.7
    </td>
    <td style="text-align: center; font-weight: bold;">
-    16.7.12
+    16.7.14
    </td>
    <td style="text-align: center;">
     Not Applicable
