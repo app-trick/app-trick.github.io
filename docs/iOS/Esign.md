@@ -9,7 +9,7 @@
 ---
 
 ### ✅  Forevermark  Marketing(Shanghai ) Limited
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.rbgjsahzso.odxtwift.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.javgcdofua.cislvjdz.plist)
 
 [证书下载/Download Certificate](/iOS/cert/Forevermark%20%20Marketing%28Shanghai%20%29%20Limited.zip)
 ### ❌ (已撤销) China Academy of Railway Sciences
