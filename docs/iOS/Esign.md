@@ -9,7 +9,7 @@
 ---
 
 ### ✅  Forevermark  Marketing(Shanghai ) Limited
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.kyxqxrqfjq.yqcmpltc.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.haqudrkvrk.wuejhhjp.plist)
 
 [证书下载/Download Certificate](/iOS/cert/Forevermark%20%20Marketing%28Shanghai%20%29%20Limited.zip)
 ### ❌ (已撤销) China Academy of Railway Sciences
@@ -22,7 +22,7 @@
 [证书下载/Download Certificate](/iOS/cert/Etisalat%20-%20Emirates%20Telecommunications%20Corporation.zip)
 ### ❌ (已撤销) GLOBAL TAKEOFF, INC
 [证书下载/Download Certificate](/iOS/cert/GLOBAL%20TAKEOFF%2C%20INC.zip)
-### ❌ (已撤销) BMW Brilliance Automotive Ltd
+### ❌ (已撤销，已过期) BMW Brilliance Automotive Ltd
 [证书下载/Download Certificate](/iOS/cert/BMW%20Brilliance%20Automotive%20Ltd.zip)
 ### ❌ (已撤销) Beijing Esensoft Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/Beijing%20Esensoft%20Co.%2C%20Ltd.zip)
