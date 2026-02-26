@@ -8,9 +8,7 @@
 
 ---
 
-### ✅  Forevermark  Marketing(Shanghai ) Limited
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.iioeusfqms.qpzwteff.plist)
-
+### ❌ (已撤销) Forevermark  Marketing(Shanghai ) Limited
 [证书下载/Download Certificate](/iOS/cert/Forevermark%20%20Marketing%28Shanghai%20%29%20Limited.zip)
 ### ❌ (已撤销) China Academy of Railway Sciences
 [证书下载/Download Certificate](/iOS/cert/China%20Academy%20of%20Railway%20Sciences.zip)
@@ -42,5 +40,3 @@
 [证书下载/Download Certificate](/iOS/cert/HDFC%20Bank%20Limited.zip)
 ### ❌ (已撤销) GAC TOYOTA MOTOR CO.,LTD
 [证书下载/Download Certificate](/iOS/cert/GAC%20TOYOTA%20MOTOR%20CO.%2CLTD.zip)
-### ❌ (已撤销，已过期) Kotak Mahindra Bank Ltd
-[证书下载/Download Certificate](/iOS/cert/Kotak%20Mahindra%20Bank%20Ltd.zip)
