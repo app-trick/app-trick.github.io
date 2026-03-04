@@ -9,7 +9,7 @@
 ---
 
 ### ✅  National Oilwell Varco, Inc
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.fplpmzedhs.txlytotb.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.xddxlajqcd.zmfxqrcz.plist)
 
 [证书下载/Download Certificate](/iOS/cert/National%20Oilwell%20Varco%2C%20Inc.zip)
 ### ❌ (已撤销) Forevermark  Marketing(Shanghai ) Limited
