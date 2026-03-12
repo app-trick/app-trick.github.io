@@ -179,6 +179,22 @@
   </tr>
   <tr>
    <td style="text-align: center; font-weight: bold;">
+    15.8.7
+   </td>
+   <td style="text-align: center; font-weight: bold;">
+    15.8.7
+   </td>
+   <td colspan="2" style="text-align: center;">
+    <a href="/iOS/TrollRestore">
+     TrollRestore
+    </a>
+   </td>
+   <td style="text-align: center;">
+    Not Applicable
+   </td>
+  </tr>
+  <tr>
+   <td style="text-align: center; font-weight: bold;">
     16.0 beta 1
    </td>
    <td style="text-align: center; font-weight: bold;">
@@ -235,7 +251,7 @@
     16.7
    </td>
    <td style="text-align: center; font-weight: bold;">
-    16.7.14
+    16.7.15
    </td>
    <td style="text-align: center;">
     Not Applicable
