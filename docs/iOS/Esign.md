@@ -8,6 +8,10 @@
 
 ---
 
+### ✅  XL AXIATA, PT TBK
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.lzruxzyrvb.zawoheqr.plist)
+
+[证书下载/Download Certificate](/iOS/cert/XL%20AXIATA%2C%20PT%20TBK.zip)
 ### ❌ (已撤销) National Oilwell Varco, Inc
 [证书下载/Download Certificate](/iOS/cert/National%20Oilwell%20Varco%2C%20Inc.zip)
 ### ❌ (已撤销) Forevermark  Marketing(Shanghai ) Limited
@@ -40,5 +44,3 @@
 [证书下载/Download Certificate](/iOS/cert/National%20Science%20Library%2CChinese%20Academy%20%20of%20Sciences.zip)
 ### ❌ (已撤销) HDFC Bank Limited
 [证书下载/Download Certificate](/iOS/cert/HDFC%20Bank%20Limited.zip)
-### ❌ (已撤销) GAC TOYOTA MOTOR CO.,LTD
-[证书下载/Download Certificate](/iOS/cert/GAC%20TOYOTA%20MOTOR%20CO.%2CLTD.zip)
