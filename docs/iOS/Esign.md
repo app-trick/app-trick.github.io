@@ -9,7 +9,7 @@
 ---
 
 ### ✅  XL AXIATA, PT TBK
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.jfxjgdhfzv.hctmxdsb.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.pghqonmrtv.sdwaazqd.plist)
 
 [证书下载/Download Certificate](/iOS/cert/XL%20AXIATA%2C%20PT%20TBK.zip)
 ### ❌ (已撤销) National Oilwell Varco, Inc
@@ -42,5 +42,3 @@
 [证书下载/Download Certificate](/iOS/cert/Wuling%20Power%20Corporation.zip)
 ### ❌ (已撤销，已过期) National Science Library,Chinese Academy  of Sciences
 [证书下载/Download Certificate](/iOS/cert/National%20Science%20Library%2CChinese%20Academy%20%20of%20Sciences.zip)
-### ❌ (已撤销) HDFC Bank Limited
-[证书下载/Download Certificate](/iOS/cert/HDFC%20Bank%20Limited.zip)
