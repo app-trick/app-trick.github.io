@@ -9,7 +9,7 @@
 ---
 
 ### ✅  XL AXIATA, PT TBK
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.pghqonmrtv.sdwaazqd.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.cuyyqvnwnz.ibltajbv.plist)
 
 [证书下载/Download Certificate](/iOS/cert/XL%20AXIATA%2C%20PT%20TBK.zip)
 ### ❌ (已撤销) National Oilwell Varco, Inc
