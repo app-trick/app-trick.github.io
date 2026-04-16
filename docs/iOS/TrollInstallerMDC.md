@@ -1,7 +1,11 @@
 # TrollInstallerMDC
+以下不同链接是同一个应用，只是签名证书不一样，如遇签名失效， 可尝试其他链接。
+
 **请使用手机浏览器打开此页面，然后点击以下链接：**
 
-[安装 TrollInstallerMDC](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.vgchrzpkvt.njmsjabz.plist)
+[安装 TrollInstallerMDC](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.nkawazcumz.ilrvzpad.plist)
+
+[安装 TrollInstallerMDC](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.dpqqoajgxm.qehfbcrt.plist)
 
 
 安装好工具后，按界面步骤操作完成安装

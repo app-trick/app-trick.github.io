@@ -8,8 +8,12 @@
 
 ---
 
+### ✅  Beijing Zhizhangyi Inc
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.ktpekxacpi.cjmbrlhy.plist)
+
+[证书下载/Download Certificate](/iOS/cert/Beijing%20Zhizhangyi%20Inc.zip)
 ### ✅  XL AXIATA, PT TBK
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.arfxxlulcp.eqyfesxj.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.kgxfsygylz.wxjaluth.plist)
 
 [证书下载/Download Certificate](/iOS/cert/XL%20AXIATA%2C%20PT%20TBK.zip)
 ### ❌ (已撤销) National Oilwell Varco, Inc
