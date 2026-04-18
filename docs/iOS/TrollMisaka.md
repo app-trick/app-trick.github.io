@@ -3,9 +3,9 @@
 
 **请使用手机浏览器打开此页面，然后点击以下链接：**
 
-[安装 TrollMisaka](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.qzjtoiwruu.cycjlrhm.plist)
+[安装 TrollMisaka](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.bphfekucds.txsudxye.plist)
 
-[安装 TrollMisaka](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.uzxktjgoag.whxvdzlo.plist)
+[安装 TrollMisaka](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.uaohojipck.xnrydkyf.plist)
 
 
 安装好工具后，按界面步骤操作完成安装
