@@ -3,9 +3,9 @@
 
 **请使用手机浏览器打开此页面，然后点击以下链接：**
 
-[安装 TrollInstallerX](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.sqewaotlos.fiipnwbg.plist)
+[安装 TrollInstallerX](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.mqxbxykycz.bmwlhkfh.plist)
 
-[安装 TrollInstallerX](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.rekwdzdusz.ixkthikj.plist)
+[安装 TrollInstallerX](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.vpppghrqnw.ckaewxsz.plist)
 
 
 安装好工具后，按界面步骤操作完成安装
