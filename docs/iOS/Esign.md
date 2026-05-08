@@ -8,6 +8,10 @@
 
 ---
 
+### ✅  Aramco Services Company
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.lpelesibid.ioblxcea.plist)
+
+[证书下载/Download Certificate](/iOS/cert/Aramco%20Services%20Company.zip)
 ### ❌ (已撤销) Beijing Zhizhangyi Inc
 [证书下载/Download Certificate](/iOS/cert/Beijing%20Zhizhangyi%20Inc.zip)
 ### ❌ (已撤销) XL AXIATA, PT TBK
