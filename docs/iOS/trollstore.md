@@ -182,7 +182,7 @@
     15.8.7
    </td>
    <td style="text-align: center; font-weight: bold;">
-    15.8.7
+    15.8.8
    </td>
    <td colspan="2" style="text-align: center;">
     <a href="/iOS/TrollRestore">
@@ -251,7 +251,7 @@
     16.7
    </td>
    <td style="text-align: center; font-weight: bold;">
-    16.7.15
+    16.7.16
    </td>
    <td style="text-align: center;">
     Not Applicable
