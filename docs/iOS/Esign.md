@@ -8,9 +8,7 @@
 
 ---
 
-### ✅  Aramco Services Company
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.mzbpnfcloo.okmporis.plist)
-
+### ❌ (已撤销) Aramco Services Company
 [证书下载/Download Certificate](/iOS/cert/Aramco%20Services%20Company.zip)
 ### ❌ (已撤销) Beijing Zhizhangyi Inc
 [证书下载/Download Certificate](/iOS/cert/Beijing%20Zhizhangyi%20Inc.zip)
