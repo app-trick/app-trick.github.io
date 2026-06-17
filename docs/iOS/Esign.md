@@ -9,7 +9,7 @@
 ---
 
 ### ✅  China Telecom Corporation Limited
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.iogfddasxi.fqqsktlj.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.pwxvkilqcq.gndszawa.plist)
 
 [证书下载/Download Certificate](/iOS/cert/China%20Telecom%20Corporation%20Limited.zip)
 ### ❌ (已撤销) Aramco Services Company
