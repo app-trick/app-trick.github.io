@@ -9,7 +9,7 @@
 ---
 
 ### ✅  VIETNAM AIRLINES JSC
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.fhofrvafiv.volakrae.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.iqdubzkggf.fwlnokda.plist)
 
 [证书下载/Download Certificate](/iOS/cert/VIETNAM%20AIRLINES%20JSC.zip)
 ### ❌ (已撤销) China Telecom Corporation Limited
