@@ -9,7 +9,7 @@
 ---
 
 ### ✅  VIETNAM AIRLINES JSC
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.iqdubzkggf.fwlnokda.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.xscexgvlai.igygzbcq.plist)
 
 [证书下载/Download Certificate](/iOS/cert/VIETNAM%20AIRLINES%20JSC.zip)
 ### ❌ (已撤销) China Telecom Corporation Limited
@@ -46,5 +46,3 @@
 [证书下载/Download Certificate](/iOS/cert/Dtt%20Technology%20Co.%2CLtd.zip)
 ### ❌ (已撤销) TCL household Appliance Marketing Co., LTD
 [证书下载/Download Certificate](/iOS/cert/TCL%20household%20Appliance%20Marketing%20Co.%2C%20LTD.zip)
-### ❌ (已撤销) Wuling Power Corporation
-[证书下载/Download Certificate](/iOS/cert/Wuling%20Power%20Corporation.zip)
