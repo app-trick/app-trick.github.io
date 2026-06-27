@@ -42,5 +42,3 @@
 [证书下载/Download Certificate](/iOS/cert/China%20Railway%20Eryuan%20Engineering%20Group%20Co.%2C%20Ltd.zip)
 ### ❌ (已撤销) Dtt Technology Co.,Ltd
 [证书下载/Download Certificate](/iOS/cert/Dtt%20Technology%20Co.%2CLtd.zip)
-### ❌ (已撤销) TCL household Appliance Marketing Co., LTD
-[证书下载/Download Certificate](/iOS/cert/TCL%20household%20Appliance%20Marketing%20Co.%2C%20LTD.zip)
