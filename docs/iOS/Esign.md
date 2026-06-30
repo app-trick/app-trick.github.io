@@ -40,5 +40,3 @@
 [证书下载/Download Certificate](/iOS/cert/NREH%20ESTATE%20INFORMATION%20TECHNOLOGY%20CO.%2CLTD.zip)
 ### ❌ (已撤销，已过期) China Railway Eryuan Engineering Group Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/China%20Railway%20Eryuan%20Engineering%20Group%20Co.%2C%20Ltd.zip)
-### ❌ (已撤销) Dtt Technology Co.,Ltd
-[证书下载/Download Certificate](/iOS/cert/Dtt%20Technology%20Co.%2CLtd.zip)
