@@ -36,7 +36,3 @@
 [证书下载/Download Certificate](/iOS/cert/BMW%20Brilliance%20Automotive%20Ltd.zip)
 ### ❌ (已撤销) Beijing Esensoft Co., Ltd
 [证书下载/Download Certificate](/iOS/cert/Beijing%20Esensoft%20Co.%2C%20Ltd.zip)
-### ❌ (已撤销) NREH ESTATE INFORMATION TECHNOLOGY CO.,LTD
-[证书下载/Download Certificate](/iOS/cert/NREH%20ESTATE%20INFORMATION%20TECHNOLOGY%20CO.%2CLTD.zip)
-### ❌ (已撤销，已过期) China Railway Eryuan Engineering Group Co., Ltd
-[证书下载/Download Certificate](/iOS/cert/China%20Railway%20Eryuan%20Engineering%20Group%20Co.%2C%20Ltd.zip)
