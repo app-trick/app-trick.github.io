@@ -34,5 +34,3 @@
 [证书下载/Download Certificate](/iOS/cert/GLOBAL%20TAKEOFF%2C%20INC.zip)
 ### ❌ (已撤销，已过期) BMW Brilliance Automotive Ltd
 [证书下载/Download Certificate](/iOS/cert/BMW%20Brilliance%20Automotive%20Ltd.zip)
-### ❌ (已撤销) Beijing Esensoft Co., Ltd
-[证书下载/Download Certificate](/iOS/cert/Beijing%20Esensoft%20Co.%2C%20Ltd.zip)
