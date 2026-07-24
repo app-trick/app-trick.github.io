@@ -32,5 +32,3 @@
 [证书下载/Download Certificate](/iOS/cert/Etisalat%20-%20Emirates%20Telecommunications%20Corporation.zip)
 ### ❌ (已撤销) GLOBAL TAKEOFF, INC
 [证书下载/Download Certificate](/iOS/cert/GLOBAL%20TAKEOFF%2C%20INC.zip)
-### ❌ (已撤销，已过期) BMW Brilliance Automotive Ltd
-[证书下载/Download Certificate](/iOS/cert/BMW%20Brilliance%20Automotive%20Ltd.zip)
