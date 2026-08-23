@@ -14,7 +14,7 @@
 [证书下载/Download Certificate](/iOS/cert/China%20Telecom%20Corporation%20Limited.zip)
 ### ❌ (已撤销) Aramco Services Company
 [证书下载/Download Certificate](/iOS/cert/Aramco%20Services%20Company.zip)
-### ❌ (已撤销) Beijing Zhizhangyi Inc
+### ❌ (已撤销，已过期) Beijing Zhizhangyi Inc
 [证书下载/Download Certificate](/iOS/cert/Beijing%20Zhizhangyi%20Inc.zip)
 ### ❌ (已撤销) XL AXIATA, PT TBK
 [证书下载/Download Certificate](/iOS/cert/XL%20AXIATA%2C%20PT%20TBK.zip)
