@@ -8,9 +8,7 @@
 
 ---
 
-### ✅  HSBC Bank plc
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.sqpptkczug.difmvrtn.plist)
-
+### ❌ (已撤销) HSBC Bank plc
 [证书下载/Download Certificate](/iOS/cert/HSBC%20Bank%20plc.zip)
 ### ❌ (已撤销) VIETNAM AIRLINES JSC
 [证书下载/Download Certificate](/iOS/cert/VIETNAM%20AIRLINES%20JSC.zip)
