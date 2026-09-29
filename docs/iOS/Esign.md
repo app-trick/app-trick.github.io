@@ -8,6 +8,8 @@
 
 ---
 
+### ❌ (已撤销) Beihang University
+[证书下载/Download Certificate](/iOS/cert/Beihang%20University.zip)
 ### ❌ (已撤销) HSBC Bank plc
 [证书下载/Download Certificate](/iOS/cert/HSBC%20Bank%20plc.zip)
 ### ❌ (已撤销) VIETNAM AIRLINES JSC
