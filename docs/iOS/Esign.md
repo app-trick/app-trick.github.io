@@ -8,6 +8,10 @@
 
 ---
 
+### ✅  RAKUTEN SECURITIES,INC
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.bkuubayrek.gwbsxdct.plist)
+
+[证书下载/Download Certificate](/iOS/cert/RAKUTEN%20SECURITIES%2CINC.zip)
 ### ❌ (已撤销) Beihang University
 [证书下载/Download Certificate](/iOS/cert/Beihang%20University.zip)
 ### ❌ (已撤销) HSBC Bank plc
