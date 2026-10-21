@@ -9,7 +9,7 @@
 ---
 
 ### ✅  RAKUTEN SECURITIES,INC
-[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.bkuubayrek.gwbsxdct.plist)
+[安装轻松签/Install Esign](itms-services://?action=download-manifest&url=https://app-trick.github.io/iOS/plist/com.xwxxtqbwyp.ctkhqaup.plist)
 
 [证书下载/Download Certificate](/iOS/cert/RAKUTEN%20SECURITIES%2CINC.zip)
 ### ❌ (已撤销) Beihang University
